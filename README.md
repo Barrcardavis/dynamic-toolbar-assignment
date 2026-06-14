@@ -43,5 +43,5 @@ npm run test
 Video link: (https://youtu.be/Tk79npOf6z4))
 
 🗂 Repository
-GitHub link: (add your repo link here)
+GitHub link: (https://github.com/Barrcardavis/dynamic-toolbar-assignment/blob/main/README.md))
 
